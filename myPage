@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<p>
+  <a href="#paragraph">Jump to my paragraph: </a>
+</p>
+  </head>
+  <body>
+  <h1><title>Crazy Cat Lady!</title></h1>
+    <p id ="paragraph">
+      This is my page.
+      I love <strong>LOVE </strong>Kittens!!</p>
+    <a href ="https://iheartcats.com/"><img class="cat pic" src="https://2.bp.blogspot.com/-yne2f8kYEZU/URNWyRZypQI/AAAAAAAAAbc/OxwZVmfpUZI/s1600/hungry-baby-cat-wallpaper.jpg" alt="cute cat" /></a>
+</html>
